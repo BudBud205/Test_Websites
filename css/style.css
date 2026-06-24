@@ -21,13 +21,6 @@ h1 {
     text-align: center;
 }
 
-h2 {
-    color: #e8881a;
-    font-weight: 600;
-    font-size: 32px;
-    text-align: center;
-}
-
 /* Title image styling (unused but kept) */
 #title-image {
     display: block;
