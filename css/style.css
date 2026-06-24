@@ -1,4 +1,4 @@
-/* main.css - basic styles (8-bit font) */
+/* style.css - migrated from main.css (8-bit font) */
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 body {
@@ -21,7 +21,7 @@ h1 {
     text-align: center;
 }
 
-/* Title image styling */
+/* Title image styling (unused but kept) */
 #title-image {
     display: block;
     max-width: 220px;
