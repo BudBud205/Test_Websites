@@ -5,7 +5,11 @@ body {
 	font-family: 'Press Start 2P', monospace;
 	margin: 0;
 	padding: 1rem;
-	background: #ffffff;
+	background-color: #ffffff;
+	background-image: url("../images/Susan Moth artwork.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
 	color: #111111;
 	font-size: 14px;
 }
